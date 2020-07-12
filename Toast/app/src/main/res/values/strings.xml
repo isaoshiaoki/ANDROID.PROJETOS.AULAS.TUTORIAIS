@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toast</string>
+    <string name="btn_toast1">Toast 1</string>
+    <string name="btn_toast2">Toast 2</string>
+    <string name="btn_toast3">Toast 3</string>
+</resources>

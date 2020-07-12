@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification2</string>
+    <string name="btn_notify">Notificar</string>
+    <string name="txt_msg">Você clicou na notificação</string>
+</resources>

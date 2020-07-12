@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationProgress</string>
+    <string name="txt_notify">Notificar</string>
+    <string name="txt_notify2">Notificar 2</string>
+</resources>
